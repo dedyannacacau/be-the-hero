@@ -11,9 +11,6 @@ Projeto desenvolvido na Semana Omnistack 11 da Rocketseat.
 
 O projeto Be The Hero consiste em ONG's que desejam divulgar casos, com o objetivo de conectar pessoas que desejam fazer contribuições monetárias aos casos.
 
-O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
-
-
 # Tecnologias
 
 Projeto desenvolvido com as seguintes tecnologias:
